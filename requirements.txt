@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+librosa
+soundfile
+scipy
+scikit-learn
+xgboost
+joblib
+pydub
+ffmpeg-python
